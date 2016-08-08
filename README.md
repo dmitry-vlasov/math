@@ -1,4 +1,4 @@
-Mathmatics source
+Mathematics source
 =================
 Sources for mathematics, based on [set.mm](https://github.com/metamath/set.mm "set.mm repository") 
 from [Metamath language](https://metamath.org "Metamath language")
